@@ -21,7 +21,7 @@
   smooth();
   textSize(15);
   textFont('Futura PT');
-  text("MODERNIST COMPOSITIONS ________ Instructions: Move your cursor anywhere on the display and press any of the following keys '1' '2' '3' '4' '5' '6' '7' '8' '9''0'. Press 'S' to save or reload the page to restart your comosition.  ", 50, 50);
+  text("MODERNIST COMPOSITIONS ________ Instructions: Move your cursor anywhere on the display and press any of the following keys '1' '2' '3' '4' '5' '6' '7' '8' '9''0'. Press 'S' to save or reload the page to restart your composition.  ", 50, 50);
 
   }
 
